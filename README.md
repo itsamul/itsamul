@@ -3,7 +3,7 @@
 **`Software Tester (Manual / Automation)`** 
 
 ISTQB Certified Tester with extensive experience in manual and automation testing for web-based and Windows applications. Proficient in Agile and Waterfall methodologies, excelling in the Software Testing Lifecycle from requirement gathering and test planning to execution and bug reporting. Specialized in Black Box, Integration, Regression, GUI, and Exploratory Testing, transforming business requirements into precise functional specifications to ensure high-quality software delivery.
-<img align="right" alt="Coding" width="300" src="https://github.com/itsamul/itsamul/blob/main/focus-animation.gif" > <br/>
+<img align="right" alt="Coding" width="280" src="https://github.com/itsamul/itsamul/blob/main/focus-animation.gif" > <br/>
 
 - 🔭 I’m currently focusing on **Improving my Test Automation skills**.<br/>
 - 🌱 I’m currently learning **Rest Assured, Cypress, Advanced Design Patterns**.<br/>
