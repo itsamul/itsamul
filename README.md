@@ -41,6 +41,7 @@ ISTQB Certified Tester with extensive experience in manual and automation testin
 <h3 align="left">📊 Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsamul&show_icons=true&locale=en&layout=compact" alt="itsamul" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsamul&show_icons=true&locale=en" alt="itsamul" /></p>
+<p><img align="right" alt="Thinking" width="250" src=https://github.com/itsamul/itsamul/blob/main/Thinks_stats.gif /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsamul&" alt="itsamul" /></p>
 
 <!--
