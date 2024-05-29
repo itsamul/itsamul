@@ -1,28 +1,24 @@
-# 👋 Hi, my name is Amul Sinfal
+# Hi there 👋, I'm Amul Sinfal
+
 **`Software Tester (Manual / Automation)`** 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsamul&label=Profile%20views&color=0e75b6&style=flat" alt="amulsinfal" /> </p>
+
 ISTQB Certified Tester with extensive experience in manual and automation testing for web-based and Windows applications. Proficient in Agile and Waterfall methodologies, excelling in the Software Testing Lifecycle from requirement gathering and test planning to execution and bug reporting. Specialized in Black Box, Integration, Regression, GUI, and Exploratory Testing, transforming business requirements into precise functional specifications to ensure high-quality software delivery.
-<img align="right" alt="Coding" width="380" src="https://github.com/itsamul/itsamul/blob/main/focus-animation.gif" > <br/>
+<img align="right" alt="Coding" width="300" src="https://github.com/itsamul/itsamul/blob/main/focus-animation.gif" > <br/>
 
-- 🔭 I’m currently working on **Automation Framework**.<br/>
-
+- 🔭 I’m currently focusing on **Improving my Test Automation skills**.<br/>
 - 🌱 I’m currently learning **Rest Assured, Cypress, Advanced Design Patterns**.<br/>
-
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**.<br/>
-
 - 💬 Ask me about **Manual Testing, Selenium, Java, TestNG, Postman, SQL**.<br/>
-
 - 👨‍💻 All of my projects are available at **[https://github.com/itsamul](https://github.com/itsamul)**<br/>
-
 - 📫 How to reach me: **itsmeamuls@gmail.com**<br/>
 
+<!--
 #
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📧 Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/itsamul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="itsamul" height="30" /></a>
-<a href="https://linkedin.com/in/amulsinfal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amulsinfal" height="30" /></a>
-</p>
+<a href="https://github.com/itsamul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="itsamul" height="25" /></a>
+<a href="https://linkedin.com/in/amulsinfal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amulsinfal" height="25" /></a>
+</p> -->
 
 #
 <h3 align="left">🧰 Languages and Tools:</h3>
@@ -38,25 +34,33 @@ ISTQB Certified Tester with extensive experience in manual and automation testin
 <br />
 
 #
-<h3 align="left">📊 Github Stats:</h3>
+<article>
+	<h3>🔭 Automation Projects: </h3>
+		<ul>
+			<li><h4>Web Automation</h4></li>
+			<ul style="list-style-type:circle">
+				<li> <a href="https://github.com/itsamul/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website">Hybrid Framework for Selenium Automation using Selenium webdriver and Java</a> </li>
+				<li> <a href="https://github.com/itsamul/Automated-test-cases-using-selenium-java-www.automationexercise.com">Automating testcases using Selenium webdriver and Java</a> </li>
+				<li> <a href="https://github.com/itsamul/TestNG-testing-framework-using-selenium-api">TestNG Automation Framework using Selenium webdriver and Java</a> </li>
+			</ul>
+		</ul>
+		<ul>
+			<li><h4>API Testing</h4></li>
+			<ul style="list-style-type:circle">
+				<li> <a href="https://github.com/itsamul/postman_api_testing_collections">Postman API testing Project</a> </li>
+			</ul>	
+		</ul>
+</article>
+
+<!--
+#
+<details>
+<summary><h3 align="left">📊 Github Stats:</h3></summary>
+<h3 align="left"></h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsamul&show_icons=true&locale=en&layout=compact" alt="itsamul" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsamul&show_icons=true&locale=en" alt="itsamul" /></p>
 <p><img align="right" alt="Thinking" width="300" src=https://github.com/itsamul/itsamul/blob/main/Thinks_stats.gif /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsamul&" alt="itsamul" /></p>
-
-<!--
-## Hi there 👋
-
-**itsamul/itsamul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsamul&label=Profile%20views&color=0e75b6&style=flat" alt="amulsinfal" /> </p>
+</details>
 -->
