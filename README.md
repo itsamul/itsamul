@@ -1,16 +1,16 @@
 # 👋 Hi, my name is Amul Sinfal
 **`Software Tester (Manual / Automation)`** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsamul&label=Profile%20views&color=0e75b6&style=flat" alt="amulsinfal" /> </p>
-ISTQB Certified Tester with extensive experience in manual and automation testing for web-based and Windows applications. Proficient in Agile and Waterfall methodologies, excelling in the Software Testing Lifecycle from requirement gathering and test planning to execution and bug reporting. Specialized in Black Box, Integration, Regression, GUI, and Exploratory Testing, transforming business requirements into precise functional specifications to ensure high-quality software delivery. <br/>
-<img align="right" alt="Coding" width="400" src="https://github.com/itsamul/itsamul/blob/main/focus-animation.gif" > <br/>
+ISTQB Certified Tester with extensive experience in manual and automation testing for web-based and Windows applications. Proficient in Agile and Waterfall methodologies, excelling in the Software Testing Lifecycle from requirement gathering and test planning to execution and bug reporting. Specialized in Black Box, Integration, Regression, GUI, and Exploratory Testing, transforming business requirements into precise functional specifications to ensure high-quality software delivery.
+<img align="right" alt="Coding" width="380" src="https://github.com/itsamul/itsamul/blob/main/focus-animation.gif" > <br/>
 
 - 🔭 I’m currently working on **Automation Framework**.<br/>
 
-- 🌱 I’m currently learning **DevOps**.<br/>
+- 🌱 I’m currently learning **Rest Assured, Cypress, Advanced Design Patterns**.<br/>
 
-- 👯 I’m looking to collaborate on **Automation testing projects**.<br/>
+- 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**.<br/>
 
-- 💬 Ask me about **Manual & Automation Testing, Selenium, Java, TestNG, Postman, SQL**.<br/>
+- 💬 Ask me about **Manual Testing, Selenium, Java, TestNG, Postman, SQL**.<br/>
 
 - 👨‍💻 All of my projects are available at **[https://github.com/itsamul](https://github.com/itsamul)**<br/>
 
@@ -38,10 +38,10 @@ ISTQB Certified Tester with extensive experience in manual and automation testin
 <br />
 
 #
-<h3 align="left">📊 Stats:</h3>
+<h3 align="left">📊 Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsamul&show_icons=true&locale=en&layout=compact" alt="itsamul" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsamul&show_icons=true&locale=en" alt="itsamul" /></p>
-<p><img align="right" alt="Thinking" width="250" src=https://github.com/itsamul/itsamul/blob/main/Thinks_stats.gif /></p>
+<p><img align="right" alt="Thinking" width="300" src=https://github.com/itsamul/itsamul/blob/main/Thinks_stats.gif /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsamul&" alt="itsamul" /></p>
 
 <!--
