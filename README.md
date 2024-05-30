@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Amul Sinfal
 
 **`Software Tester (Manual / Automation)`** 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsamul&label=Profile%20views&color=0e75b6&style=flat" alt="amulsinfal" /> </p>
 
 ISTQB Certified Tester with extensive experience in manual and automation testing for web-based and Windows applications. Proficient in Agile and Waterfall methodologies, excelling in the Software Testing Lifecycle from requirement gathering and test planning to execution and bug reporting. Specialized in Black Box, Integration, Regression, GUI, and Exploratory Testing, transforming business requirements into precise functional specifications to ensure high-quality software delivery.
 <img align="right" alt="Coding" width="280" src="https://github.com/itsamul/itsamul/blob/main/focus-animation.gif" > <br/>
