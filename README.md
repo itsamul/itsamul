@@ -10,15 +10,6 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
 - 👯 I’m looking to collaborate on **API Testing, Automation Testing, Selenium**.<br/>
 - 💬 Ask me about **Manual Testing, Selenium, Java, TestNG, Postman**.<br/>
 - 👨‍💻 All of my projects are available at **[https://github.com/itsamul](https://github.com/itsamul)**<br/>
-- 📫 How to reach me: **itsmeamuls@gmail.com**<br/>
-
-<!--
-#
-<h3 align="left">📧 Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/itsamul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="itsamul" height="25" /></a>
-<a href="https://linkedin.com/in/amulsinfal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amulsinfal" height="25" /></a>
-</p> -->
 
 #
 <h3 align="left">🧰 Languages and Tools:</h3>
